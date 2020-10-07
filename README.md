@@ -1,2 +1,2 @@
 # Linux-AM
-- ´root´ permite cambiar todo  
+- `root` permite cambiar todo  
